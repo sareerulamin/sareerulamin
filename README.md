@@ -19,7 +19,10 @@ src="https://img.shields.io/github/followers/sareerulamin?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/sareerulamin320?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.linkedin.com/in/sareerulamin320" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Follow%20on%20LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="https://twitter.com/sareerulamin320" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Twitter-Follow%20@sareerulamin320-0891b2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+
 
 
 ### Skills
