@@ -18,6 +18,9 @@ Sareer Ul Amin is an emerging researcher in artificial intelligence and computer
 src="https://img.shields.io/github/followers/sareerulamin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/sareerulamin320" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sareerulamin320?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+<a href="https://www.x.com/sareerulamin320" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sareerulamin320?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 ### Skills
 
