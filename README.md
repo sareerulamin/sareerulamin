@@ -15,9 +15,10 @@ Sareer Ul Amin is an emerging researcher in artificial intelligence and computer
 * ⚡  I am Shadowhunter... but don't tell any one.
 
 <a href="https://www.github.com/sareerulamin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sareerulamin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://twitter.com/sareerulamin320" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Twitter-Follow%20@sareerulamin320-0891b2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a><a href="https://www.linkedin.com/in/sareer-ulamin-9a5171186/" target="_blank" rel="noreferrer">
+src="https://img.shields.io/github/followers/sareerulamin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://x.com/sareerulamin320" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/X-Follow%20@sareerulamin320-0891b2?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/sareer-ulamin-9a5171186/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Follow%20on%20LinkedIn-0891b2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
